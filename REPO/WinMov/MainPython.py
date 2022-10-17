@@ -13,8 +13,7 @@ def GetWin():
 
 
 def jls_extract_def():
-    
-    return 
+     return 
 
 
 def ReadWin():
