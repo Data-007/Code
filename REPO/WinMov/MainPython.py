@@ -19,7 +19,7 @@ def jls_extract_def():
 def ReadWin():
     f= open("windows.txt", "r")
     for lines in f:
-        #list[lines]=print(f.readline(lines))
+        list[lines]=print(f.readline(lines))
         
         WinNum=lines = jls_extract_def()
     f.close
