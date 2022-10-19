@@ -1,7 +1,6 @@
-0x01800011 -1 1037   1920 0    1920 1080 Main Desktop — Plasma
-0x01800017 -1 1037   0    0    1920 1080 Main Desktop — Plasma
-0x01800023 -1 1037   1920 1056 1920 24   Main Plasma
-0x03200003  0 1285   1051 353  800  600  Main NordPass Password Manager
-0x04000008  0 6878   569  282  1288 730  Main #betatesters | ArcoLinux - Discord
-0x03e0002c  0 19679  2122 55   1519 902  Main GitLens Tutorial: How to Use GitLens in VS Code - YouTube — Mozilla Firefox
-0x05800003  0 23414  1996 163  1920 996  Main MainPython.py - Code - Code - OSS
+0x01800011 -1 1033   1920 0    1920 1080 Main Desktop — Plasma
+0x01800017 -1 1033   0    0    1920 1080 Main Desktop — Plasma
+0x01800023 -1 1033   1920 1056 1920 24   Main Plasma
+0x00400003  0 1277   933  279  800  600  Main NordPass Password Manager
+0x03a00008  0 3834   611  350  1288 730  Main #general-support | ArcoLinux - Discord
+0x05e00003  0 10856  1920 0    1920 1080 Main MainPython.py - Code - Code - OSS
