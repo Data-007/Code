@@ -1,6 +1,5 @@
-0x01800011 -1 1033   1920 0    1920 1080 Main Desktop — Plasma
-0x01800017 -1 1033   0    0    1920 1080 Main Desktop — Plasma
-0x01800023 -1 1033   1920 1056 1920 24   Main Plasma
-0x00400003  0 1277   933  279  800  600  Main NordPass Password Manager
-0x03a00008  0 3834   611  350  1288 730  Main #general-support | ArcoLinux - Discord
-0x05e00003  0 10856  1920 0    1920 1080 Main MainPython.py - Code - Code - OSS
+0x01800011 -1 1047   1920 0    1920 1080 Main Desktop — Plasma
+0x01800017 -1 1047   0    0    1920 1080 Main Desktop — Plasma
+0x01800023 -1 1047   1920 1056 1920 24   Main Plasma
+0x00400003  0 1901   1051 353  800  600  Main NordPass Password Manager
+0x04800003  0 11551  2140 110  1280 946  Main MainPython.py - Code - Code - OSS
